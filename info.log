@@ -1,0 +1,4 @@
+{"level":"info","message":"Tudo funcionando."}
+{"level":"error","message":"Error message","timestamp":"2024-10-03T12:05:08.345Z"}
+{"level":"warn","message":"Warning message","timestamp":"2024-10-03T12:05:08.349Z"}
+{"level":"info","message":"Info message","timestamp":"2024-10-03T12:05:08.350Z"}
